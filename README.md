@@ -4,14 +4,31 @@
 
 ## Introdução
 Este é um teste prático para avaliar conhecimentos do candidato durante seu processo 
-seletivo. 
+seletivo.
+
 Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema
-e a melhor forma de resolvê-lo. 
-Não estamos avaliando apenas o resultado final, mas 
-como foi pensado e implementado.
+e a melhor forma de resolvê-lo.
+
+Não estamos avaliando apenas o resultado final, mas como foi pensado e implementado.
+
 Qualquer dúvida, pode entrar em contato com o tech recruiter.
 
-Sugestões de bibliotecas e comandos a serem usados:
+Clone o repositório com o commando abaixo para iniciar o seu teste:
+
+```
+git clone https://github.com/dataminerdbm/python_web_crawling_test.git
+```
+
+**Ao final do teste dê o commit com seu nome completo no comentário e faça o push**
+
+## Requisitos
+
+- Python 3
+- Git
+- Editor ou IDE de sua preferência 
+
+### Sugestões de bibliotecas e comandos a serem usados
+
 - Beautiful Soup | Scrapy
 - Requests
 - re
@@ -20,15 +37,17 @@ Sugestões de bibliotecas e comandos a serem usados:
 - dict, list
 
 
-## Desafio 1 
+---
+
+## Desafio 1
 
 Desenvolver um script em Python que realize as seguintes tarefas:
 
 1) Ler o arquivo response.html, que se encontra neste repositório;
 2) Realizar o parser dos dados conforme o JSON abaixo;
-3) Imprimir o JSON.
+3) Salvar o JSON em um arquivo de nome jsonResult.json
 
-jsonResult=
+jsonResult.json ( exemplo )
 
 ```json
 
@@ -53,11 +72,18 @@ jsonResult=
 
 ```
 
+---
+
+
 ## Desafio 2
 
-Capturar todos os IPs e PORTAS da página 1 do site http://www.freeproxylists.net/ e os links das demais páginas ( paginação ). O resultado deve ser impresso conforme os JSON abaixo:
+1) Capturar todos os IPs e PORTAS da página 1 do site http://www.freeproxylists.net/ e os links da paginação. 
+2) Salvar lista de proxies no arquivo jsonProxies.json
+3) Salvar lista de links da paginação no arquivo jsonPages.json
 
-jsonProxies=
+
+
+jsonProxies.json ( Exemplo ):
 
 ```json 
 
@@ -69,7 +95,7 @@ jsonProxies=
 
 ```
 
-jsonPages=
+jsonPages.json ( Exemplo ):
 
 ```json 
 
