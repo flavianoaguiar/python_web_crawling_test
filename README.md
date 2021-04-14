@@ -33,7 +33,7 @@ Nome do arquivo: scrapyTest.py
 
 Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
-1) Acesse o link http://www.freeproxylists.net/ e capture a lista de proxies ( até a página 7 ), executando uma thread para cada página simultâneamente.
+1) Acesse o link http://www.freeproxylists.net e capture a lista de proxies ( até a página 7 ), executando uma thread para cada página simultâneamente.
 2) Salve a lista completa de proxies no arquivo proxies.json.
 3) Imprima a quantidade de proxies capturados e o tempo de execução.
 
