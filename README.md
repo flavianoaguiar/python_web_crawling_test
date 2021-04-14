@@ -82,7 +82,7 @@ desafio1.json ( exemplo )
 
 ## Desafio 2 ( desafio2.py )
 
-Usando as técnicas de web crawling e scraping que você conhece "humanizar" um robô, realize as seguintes tarefas.
+Usando as técnicas de web crawling e scraping (human-like) que você conhece, realize as seguintes tarefas. 
 
 1) Capturar todos os IPs e PORTAS da página 1 do site http://www.freeproxylists.net/ e os links da paginação ( até a página 7 ). 
 2) Salvar a lista de proxies no arquivo desafio2Proxies.json
