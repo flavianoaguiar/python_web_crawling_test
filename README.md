@@ -21,89 +21,59 @@ Qualquer dúvida, pode entrar em contato com o tech recruiter.
 - Conta no Github ou Gitlab 
 - Editor ou IDE de sua preferência 
 
-## Instruções
+### Dicas de bibliotecas e comandos
 
-Clone este repositório com o comando abaixo para acessar os arquivos necessários.
-
-```
-git clone https://github.com/dataminerdbm/python_web_crawling_test.git
-```
-
-### Dicas de bibliotecas e comandos a serem usados
-
-- beautifulsoup4, scrapy, sellenium, requests, urllib3, re, jsonify, multiprocessing, concurrent, ThreadPoolExecutor
-
+- beautifulsoup4, scrapy, sellenium, requests, urllib3, re, jsonify, multiprocessing, concurrent, ThreadPoolExecutor, aiohttp
 
 ---
 
-## Desafio 1 ( criar o arquivo desafio1.py )
+## Desafio ( Instruções )
 
-Desenvolver uma solução em Python para resolver as seguintes tarefas:
+Nome do arquivo: scrapyTest.py
 
-1) Ler o arquivo response.html, que se encontra neste repositório;
-2) Realizar o parser dos dados conforme o JSON abaixo;
-3) Salvar o JSON em um arquivo de nome desafio1.json ( criar o arquivo )
+Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
-desafio1.json ( Exemplo ):
-
-```json
-
-{
-    "cpf": "112.348.828-25",
-    "nome": "MARIA ISABEL MESSIAS",
-    "dataNascimento": "19/09/1964",
-    "dataInscricao": "anterior a 10/11/1990",
-    "protocolo": "F36E.8EC4.686D.422F",
-    "protocoloDigitoVerificador": "03",
-    "protocoloHora": "00:27:06",
-    "protocoloData": "04/02/2021",
-    "situacaoCadastral": "REGULAR",
-    "anoObito": "2020",
-    "dataHoraExecucao": "14/04/2021 11:49:10"
-}
-
-```
-
----
-
-## Desafio 2 ( criar o arquivo desafio2.py )
-
-Usando as técnicas de web crawling e scraping (human-like) que você conhece, realize as seguintes tarefas:
-
-1) Acessar o link http://www.freeproxylists.net/ e capturar a lista de proxies até a página 7, usando uma thread para cada página da paginação executando simultâneamente.
-2) Salve a lista completa de proxies ( até a página 7 ) no arquivo desafio2.json ( criar o arquivo )
-3) Imprimir a quantidade de proxies capturados
+1) Acesse o link http://www.freeproxylists.net/ e capture a lista de proxies ( até a página 7 ), executando uma thread para cada página simultâneamente.
+2) Salve a lista completa de proxies no arquivo proxies.json.
+3) Imprima a quantidade de proxies capturados e o tempo de execução.
 
 
-desafio2.json ( Exemplo ):
+proxies.json ( Exemplo ):
 
 ```json 
 
 [
     {
         "ip":"1.1.1.1",
-        "porta":"8080"
+        "porta":"8080",
+        "protocolo":"HTTP",
+        "pais":"BRAZIL",
+        "uptime":"32.8%"
     },
     ...
     ...
     {
         "ip":"999.999.999.999",
-        "porta":"5000"
+        "porta":"5000",
+        "protocolo":"SOCKS5",
+        "pais":"CHINA",
+        "uptime":"80%"
     }
 ]
 ```
 
-# Conclusão
+## Resultado
 
-O projeto final deve conter os seguintes arquivos:
+O repositório esperado deve conter os seguintes arquivos:
 
-- README.md
-- response.html
-- desafio1.py
-- desafio1.json
-- desafio2.py
-- desafio2.json
-- requeriments.txt ( lista de bibliotecas necessárias para a execução )
-- OBSERVACOES.md ( Opcional, use se achar necessários fazer alguma observação )
+- scrapyTest.py
+- proxies.json
+- requeriments.txt ( lista de bibliotecas não nativas necessárias para a execução )
+#### **Opcional:**
+- Dockerfile ( diferencial )
+- README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seus conhecimentos ou escrever algo que você acha importante para evitar o bloqueio de um crawler, por exemplo. Todo conhecimento demonstrado será considerado.
 
-**Disponibilize em um repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter.**
+
+
+## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
+
