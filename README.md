@@ -1,6 +1,6 @@
 ![Dataminer](http://www.dataminerdbm.com.br/wp-content/uploads/2020/10/logomarca-1x.png)
 
-# Teste para avaliação de desenvolvedores Python - Web Crawling e Scraping de nível pleno
+# Teste para recrutamento de desenvolvedores Python - Web Crawling e Scraping ( Pleno )
 
 ## Introdução
 
