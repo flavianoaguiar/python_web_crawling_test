@@ -74,7 +74,7 @@ O repositório esperado deve conter os seguintes arquivos:
 - Dockerfile ( diferencial )
 - README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seus conhecimentos ou escrever algo que você acha importante para evitar o bloqueio de um crawler, por exemplo. Todo conhecimento demonstrado será considerado.
 
-Não há um prazo para devolução, mas o tempo de resposta será considera na sua avaliação.
+Não há um prazo para devolução, mas o tempo de resposta será considerado na sua avaliação.
 
 
 ## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
