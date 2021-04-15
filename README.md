@@ -1,6 +1,6 @@
 ![Dataminer](http://www.dataminerdbm.com.br/wp-content/uploads/2020/10/logomarca-1x.png)
 
-# Teste para recrutamento de desenvolvedores Python - Web Crawling e Scraping ( Pleno )
+# Teste para recrutamento de desenvolvedores Python - Python - Web Scraping e Crawlers ( Junior )
 
 ## Introdução
 
@@ -21,7 +21,7 @@ Qualquer dúvida, pode entrar em contato com o tech recruiter.
 - Conta no Github ou Gitlab 
 - Editor ou IDE de sua preferência 
 
-### Dicas de bibliotecas e comandos
+### Dicas de bibliotecas e comandos úteis
 
 - beautifulsoup4, scrapy, sellenium, requests, urllib3, re, jsonify, multiprocessing, concurrent, ThreadPoolExecutor, aiohttp
 
@@ -34,7 +34,8 @@ Nome do arquivo: scrapyTest.py
 Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
 1) Acesse o link http://www.freeproxylists.net e capture a lista de proxies ( até a página 7 ), executando uma thread para cada página simultâneamente.
-2) Salve a lista completa de proxies no arquivo proxies.json.
+2) Realize o parser dos dados para uma lista( list - [] ) de dicionários( dict - {} ). 
+3) Salve em um arquivo ( proxies.json ) conforme exemplo abaixo.
 3) Imprima a quantidade de proxies capturados e o tempo de execução.
 
 
@@ -73,6 +74,7 @@ O repositório esperado deve conter os seguintes arquivos:
 - Dockerfile ( diferencial )
 - README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seus conhecimentos ou escrever algo que você acha importante para evitar o bloqueio de um crawler, por exemplo. Todo conhecimento demonstrado será considerado.
 
+Não há um prazo para devolução, mas o tempo de resposta será considera na sua avaliação.
 
 
 ## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
