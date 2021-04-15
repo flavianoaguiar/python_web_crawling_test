@@ -22,7 +22,7 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 
 ---
 
-## Desafio ( Instruções )
+## Instruções
 
 Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
@@ -73,4 +73,4 @@ Não há um prazo pré-estabelecido para a conclusão, mas o tempo será conside
 
 ## Contato
 
-Fique à vontade para entrar em contato conosco através do endereço flaviano.aguiar@dataminerdbm.com.br para tirar dúvidas e pedir ajuda. 
+Fique à vontade para entrar em contato conosco através do endereço flaviano.aguiar@dataminerdbm.com.br para tirar dúvidas. 
