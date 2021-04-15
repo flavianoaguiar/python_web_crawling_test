@@ -63,6 +63,8 @@ proxies.json ( Exemplo ):
 ]
 ```
 
+---
+
 ## Resultado
 
 O repositório esperado deve conter os seguintes arquivos:
