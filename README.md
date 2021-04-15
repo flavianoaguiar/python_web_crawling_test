@@ -71,7 +71,7 @@ O repositório esperado deve conter os arquivos abaixo mais o que você achar ne
 
 ---
 
-## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
+## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o contato abaixo**
 ---
 ### Contato
 
