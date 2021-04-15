@@ -5,11 +5,8 @@
 ## Introdução
 
 Este é um teste prático para avaliar conhecimentos do candidato durante seu processo 
-seletivo.
-
-Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema e na melhor forma de resolvê-lo.
-
-Não estamos avaliando apenas o resultado final, mas como foi pensado e implementado, boas práticas de desenvolvimento contam muito, comente no seu código.
+seletivo. Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema e na melhor forma de resolvê-lo.
+O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso, não vamos estabelecer nenhum tipo de restrição sobre padrões de projeto, organização de código, bibliotecas ou boas práticas. Esteja à vontade para programar da maneira que mais gosta, e que você tenha autonomia para construir o projeto do seu jeito, com as suas regras e imprimindo o seu estilo.
 
 Qualquer dúvida, pode entrar em contato com o tech recruiter.
 
@@ -28,8 +25,6 @@ Qualquer dúvida, pode entrar em contato com o tech recruiter.
 ---
 
 ## Desafio ( Instruções )
-
-Nome do arquivo: scrapyTest.py
 
 Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
@@ -67,12 +62,11 @@ proxies.json ( Exemplo ):
 
 ## Resultado
 
-O repositório esperado deve conter os seguintes arquivos:
+O repositório esperado deve conter o arquivo abaixo( obrigatoriamente) e demais arquivos que você achar necessário:
 
-- scrapyTest.py
-- proxies.json
 - requeriments.txt ( lista de bibliotecas não nativas necessárias para a execução )
-#### **Opcional ( Diferencial )**
+
+#### **Opcionamente você pode incluir os arquivos abaixo, será um diferencial**
 - Dockerfile -> Para execução em container Docker.
 - README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seus conhecimentos ou escrever algo que você acha importante para evitar o bloqueio de um crawler, por exemplo. Todo conhecimento demonstrado será considerado.
 
