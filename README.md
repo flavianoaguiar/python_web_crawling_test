@@ -6,7 +6,7 @@
 
 Este é um teste prático para avaliar conhecimentos do candidato durante seu processo 
 seletivo. Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema e na melhor forma de resolvê-lo.
-O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso, não vamos estabelecer nenhum tipo de restrição sobre padrões de projeto, organização de código, bibliotecas ou boas práticas. Esteja à vontade para programar da maneira que mais gosta, e que você tenha autonomia para construir o projeto do seu jeito, com as suas regras e no seu estilo.
+O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso, não vamos estabelecer nenhum tipo de restrição sobre padrões de projeto, organização de código, bibliotecas ou boas práticas. Nossa única exigência é que seja escrito em Python 3. Esteja à vontade para programar da maneira que mais gosta, e que você tenha autonomia para construir o projeto do seu jeito, com as suas regras e no seu estilo.
 
 ---
 
