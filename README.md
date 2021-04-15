@@ -26,11 +26,10 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 
 Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
-1) Acesse o link http://www.freeproxylists.net e capture a lista de proxies ( até a página 7 ), executando uma thread para cada página simultâneamente.
-2) Realize o parser dos dados de ip,porta,protocolo,país e uptime para uma lista ( list->[] ) de dicionários( dict->{} ). 
-3) Converta a lista em json formatado ( jsonify ) e salve em um arquivo ( proxies.json ), conforme exemplo abaixo.
+1) Acesse o link http://www.freeproxylists.net e capture a lista de proxies ( até a página 7 ), considere usar threads para melhorar o tempo de execução.
+2) Realize o parser dos dados de ip,porta,protocolo,país e uptime.
+3) Save a lista de proxies em um arquivo com nome proxies.json, conforme exemplo abaixo.
 3) Imprima a quantidade de proxies capturados e o tempo de execução.
-
 
 proxies.json ( Exemplo ):
 
