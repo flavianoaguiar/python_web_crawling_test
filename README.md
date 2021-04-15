@@ -8,8 +8,6 @@ Este é um teste prático para avaliar conhecimentos do candidato durante seu pr
 seletivo. Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema e na melhor forma de resolvê-lo.
 O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso, não vamos estabelecer nenhum tipo de restrição sobre padrões de projeto, organização de código, bibliotecas ou boas práticas. Esteja à vontade para programar da maneira que mais gosta, e que você tenha autonomia para construir o projeto do seu jeito, com as suas regras e imprimindo o seu estilo.
 
-Qualquer dúvida, pode entrar em contato com o tech recruiter.
-
 ---
 
 ## Pré-Requisitos
@@ -73,3 +71,6 @@ Não há um prazo pré-estabelecido para a conclusão, mas o tempo será conside
 
 ## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
 
+# Contato
+
+Fique à vontade para entrar em contato conosco através do endereço [flaviano.aguiar@dataminerdbm.com.br] para tirar dúvidas e pedir ajuda. 
