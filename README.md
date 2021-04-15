@@ -65,10 +65,10 @@ proxies.json ( Exemplo ):
 O repositório esperado deve conter o arquivo abaixo e os arquivos que você achar necessário para melhor solucionar o desafio:
 
 - requeriments.txt ( lista de bibliotecas não nativas necessárias para a execução )
+- README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seu conhecimento ou escreva algo que, por exemplo, você considera importante para evitar o bloqueio de um crawler pelas regras de segurança atuais. Todo conhecimento demonstrado será considerado na sua avaliação.
 
 #### **Opcionamente você pode incluir os arquivos abaixo, será um diferencial**
 - Dockerfile -> Para execução em container Docker.
-- README.md -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seus conhecimentos ou escrever algo que você acha importante para evitar o bloqueio de um crawler, por exemplo. Todo conhecimento demonstrado será considerado.
 
 Não há um prazo pré-estabelecido para a conclusão, mas o tempo será considerado na sua avaliação.
 
