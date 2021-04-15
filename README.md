@@ -16,7 +16,7 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 - Conta no Github ou Gitlab 
 - Editor ou IDE de sua preferência 
 
-### Dicas de bibliotecas e comandos úteis
+#### ***Dicas de bibliotecas e comandos úteis
 
 - beautifulsoup4, scrapy, sellenium, requests, urllib3, re, jsonify, multiprocessing, concurrent, ThreadPoolExecutor, aiohttp
 
