@@ -62,7 +62,7 @@ proxies.json ( Exemplo ):
 
 ## Resultado
 
-O repositório esperado deve conter o arquivo abaixo e os arquivos que você achar necessário para melhor solucionar o desafio:
+O repositório esperado deve conter os arquivos abaixo mais o que você achar necessário para melhor solucionar o desafio:
 
 - **requeriments.txt** ( lista de bibliotecas não nativas necessárias para a execução )
 - **README.md** -> Faça suas observações, instruções de instalação e execução e aproveite para compartilhar outros repositórios(link) que demonstre melhor seu conhecimento ou escreva algo que, por exemplo, você considera importante para evitar o bloqueio de um crawler pelas regras de segurança atuais. Todo conhecimento demonstrado será considerado na sua avaliação.
