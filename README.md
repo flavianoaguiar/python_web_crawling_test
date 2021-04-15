@@ -74,4 +74,4 @@ O repositório esperado deve conter os arquivos abaixo mais o que você achar ne
 ---
 ### Contato
 
-Fique à vontade para entrar em contato conosco através do endereço flaviano.aguiar@dataminerdbm.com.br para tirar dúvidas. 
+Fique à vontade para entrar em contato conosco através do e-mail flaviano.aguiar@dataminerdbm.com.br para tirar dúvidas. 
