@@ -64,7 +64,7 @@ proxies.json ( Exemplo ):
 O repositório esperado deve conter os arquivos abaixo mais o que você achar necessário para melhor solucionar o problema:
 
 - **requeriments.txt** ( lista de bibliotecas não nativas necessárias para a execução )
-- **README.md** -> Faça suas observações, instruções de instalação e execução. Aproveite para compartilhar outros repositórios(link) que demonstre melhor seu conhecimento.E/Ou escreva algo que você considera importante nessa área, como por exemplo, como evitar o bloqueio de um crawler pelas regras e tecnologias de segurança existentes atualmente, como captchas e regras de firewalls. Todo conhecimento demonstrado será considerado na sua avaliação.
+- **README.md** -> Faça suas observações, instruções de instalação e execução. Aproveite para compartilhar outros repositórios(link) que demonstre melhor seu conhecimento.E/Ou escreva algo que você considera importante nessa área, como por exemplo, o fazer para evitar o bloqueio de um crawler pelas regras e tecnologias de segurança existentes atualmente, como captchas e regras de firewalls(Ex.: bloqueio de IP). Todo conhecimento demonstrado será considerado na sua avaliação.
 
 ###### Opcionalmente você pode adicionar o Dockerfile. Será um grande diferencial. 
 
