@@ -69,8 +69,8 @@ O repositório esperado deve conter os arquivos abaixo mais o que você achar ne
 
 Não há um prazo pré-estabelecido para a conclusão, mas o tempo será considerado na sua avaliação.
 
-### **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
+## **Disponibilize o repositório na sua conta do Github ou Gitlab e envie o link para o tech recruiter**
 
-## Contato
+### Contato
 
 Fique à vontade para entrar em contato conosco através do endereço flaviano.aguiar@dataminerdbm.com.br para tirar dúvidas. 
