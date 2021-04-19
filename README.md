@@ -24,7 +24,7 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 
 ## Instruções
 
-Utilize as técnicas de web crawling/scraping ( "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
+Utilize as técnicas de web crawling/scraping ( anonimization, "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
 1) Acesse o link http://www.freeproxylists.net e capture a lista de proxies ( até a página 7 ), considere usar threads para melhorar o tempo de execução.
 2) Realize o parser dos dados de ip,porta,protocolo,país e uptime.
