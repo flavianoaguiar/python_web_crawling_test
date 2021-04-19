@@ -1,8 +1,8 @@
 ![Dataminer](http://www.dataminerdbm.com.br/wp-content/uploads/2020/10/logomarca-1x.png)
 
-# Teste de avaliação para seleção de desenvolvedores Python - Web Scraping e Crawlers ( Junior )
+## Teste de avaliação para seleção de desenvolvedores Python - Web Scraping e Crawlers ( Junior )
 
-## Introdução
+### Introdução
 
 Este é um teste prático para avaliar conhecimentos do candidato durante seu processo 
 seletivo. Antes de iniciar, esteja num ambiente tranquilo e confortável, pense no problema e na melhor forma de resolvê-lo.
@@ -10,7 +10,7 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 
 ---
 
-## Pré-Requisitos
+### Pré-Requisitos
 
 - Python 3
 - Conta no Github ou Gitlab 
@@ -22,7 +22,7 @@ O nosso objetivo com este desafio é conhecer você como desenvolvedor. Por isso
 
 ---
 
-## Instruções
+### Instruções
 
 Utilize as técnicas de web crawling/scraping ( anonymization, "human-like / like a human" ) que você conhece, para realizar as seguintes tarefas:
 
@@ -59,7 +59,7 @@ proxies.json ( Exemplo ):
 
 ---
 
-## Resultado
+### Resultado
 
 O repositório esperado deve conter os arquivos abaixo mais o que você achar necessário para melhor solucionar o problema:
 
