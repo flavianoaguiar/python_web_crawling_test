@@ -1,6 +1,6 @@
 ![Dataminer](http://www.dataminerdbm.com.br/wp-content/uploads/2020/10/logomarca-1x.png)
 
-## Teste de avaliação para seleção de desenvolvedores Python - Web Scraping e Crawlers ( Junior )
+## Teste de avaliação para seleção de desenvolvedores Python jr-Web Scraping e Crawlers
 
 ### Introdução
 
